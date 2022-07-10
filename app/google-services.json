@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "758446596479",
+    "project_id": "cloudtasks-45b7a",
+    "storage_bucket": "cloudtasks-45b7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758446596479:android:e7b9227d0ac68b56823a4a",
+        "android_client_info": {
+          "package_name": "com.example.cloudtasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758446596479-kfl40mn0kestnd5evaaf3nsbmuol6gat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cloudtasks",
+            "certificate_hash": "c039ec9af2a9634b2a02cb3a9fa7e794539c7634"
+          }
+        },
+        {
+          "client_id": "758446596479-kokca55b4vu6tviqvfq5m9d6n8d83m41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSvJtrSkkzvI4D3k4VyEquX1TSQioxG5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758446596479-kokca55b4vu6tviqvfq5m9d6n8d83m41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
